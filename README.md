@@ -6,5 +6,5 @@ Task 1:
 .py (Procesamiento data)
 .db (Data procesada)
 
-Taask 2:
+Task 2:
 .py (FastApi)
