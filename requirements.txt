@@ -1,0 +1,6 @@
+pandas==1.5.3
+numpy==1.23.5
+fastapi==0.95.2
+uvicorn==0.22.0
+sqlalchemy==2.0.10
+sqlite3-binary==3.39.2
